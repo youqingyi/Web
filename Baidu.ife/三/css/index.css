@@ -1,0 +1,63 @@
+body{
+	padding: 20px;
+}
+.box{
+	width: 97%;
+	padding: 20px;
+	border: 1px solid #999;
+	background-color: #eee;
+	overflow: hidden;
+	min-width: 450px;
+}
+.left{
+	float: left;
+	width: 200px;
+	height: 120px;
+	padding: 20px;	
+	border: 1px solid #999;
+	background-color: #fff;
+}
+.right{
+	float: right;
+	width: 120px;
+	height: 550px;
+	padding: 20px;
+	border: 1px solid #999;
+	background-color: #fff;
+}
+.center{
+	border: 1px solid #999;
+	margin: 0px 180px 0px 260px;
+	height: 520px;
+	padding: 20px;
+	background-color: #fff;
+}
+.wind{
+	margin-left: 135px;
+}
+.logo_1{
+	float: left;
+	width: 80px;
+	height: 80px;
+	padding: 20px;
+	border: 1px solid #999;
+	background-color: #eee;
+	font-family: 黑体；
+}
+.logo_2{
+	width: 80px;
+	height: 80px;
+	padding: 20px;
+	border: 1px solid #999;
+	background-color: #eee;
+	font-family: 黑体；
+}
+.logo_3{
+	width: 80px;
+	height: 80px;
+	padding: 20px;
+	margin-top: 20px;
+	border: 1px solid #999;
+	background-color: #eee;
+	font-family: 黑体；
+}
